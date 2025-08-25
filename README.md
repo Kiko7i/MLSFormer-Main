@@ -1,6 +1,6 @@
 # 📖 Multi-scale Low-rank and Sparse Attention based Transformer for Hyperspectral Image Classification (GRSL 2025)
 
-Demo code of ["Multi-scale Low-rank and Sparse Attention based Transformer for Hyperspectral Image Classification"](https://www.sciencedirect.com/science/article/abs/pii/S0957417425020056)
+Demo code of ["Multi-scale Low-rank and Sparse Attention based Transformer for Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/11134391)
 
 - Authors: Jinliang An, Longlong Dai, Muzi Wang, Weidong Zhang and Xiangrong Zhang
 
