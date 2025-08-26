@@ -13,14 +13,14 @@ Demo code of ["Multi-scale Low-rank and Sparse Attention based Transformer for H
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
-@article{AN2025128386,
-title = {MIAF-Net: Multiscale interactive attention fusion network for hyperspectral image classification},
-journal = {Expert Systems with Applications},
-volume = {290},
-pages = {128386},
-year = {2025},
-issn = {0957-4174},
-author = {Jinliang An and Longlong Dai and Weidong Zhang and Xiangrong Zhang}
+@ARTICLE{11134391,
+  author={An, Jinliang and Dai, Longlong and Wang, Muzi and Zhang, Weidong},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Multi-scale Low-rank and Sparse Attention based Transformer for Hyperspectral Image Classification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1}
 }
 ```
 
