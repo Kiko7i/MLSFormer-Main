@@ -16,11 +16,11 @@ Demo code of ["Multi-scale Low-rank and Sparse Attention based Transformer for H
 @ARTICLE{11134391,
   author={An, Jinliang and Dai, Longlong and Wang, Muzi and Zhang, Weidong},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Multi-scale Low-rank and Sparse Attention based Transformer for Hyperspectral Image Classification}, 
+  title={Multiscale Low-Rank and Sparse Attention-Based Transformer for Hyperspectral Image Classification}, 
   year={2025},
-  volume={},
+  volume={22},
   number={},
-  pages={1-1}
+  pages={1-5}
 }
 ```
 
