@@ -9,7 +9,7 @@ Demo code of ["Multi-scale Low-rank and Sparse Attention based Transformer for H
 <img src="MLSFormer.png" width="700px">
 </div>
 
-### 🥰 Citation	
+### 📌 Citation	
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
